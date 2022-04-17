@@ -6,6 +6,8 @@
 - react-router-dom@5
 - sass
 - eslint/prettier
+- husky
+- lint-staged
 
 ## Getting Started
 
@@ -28,12 +30,12 @@ To get a local copy up and running follow these simple example steps.
 
 ### Start dev server
 
-- `npm run dev`  or `yarn run dev` and open the browser
+- `npm run dev` or `yarn run dev` and open the browser
   at `http://localhost:3000`
 
 ### Build for production
 
-- `npm run build`  or `yarn run build`
+- `npm run build` or `yarn run build`
 
 ### Locally preview production build
 
